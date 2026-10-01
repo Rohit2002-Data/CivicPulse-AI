@@ -1,6 +1,10 @@
 # CivicPulse AI
 ## Real-Time Rainfall Intelligence for Karnataka & Bengaluru
 
+
+<img width="1672" height="941" alt="ChatGPT Image Oct 1, 2026, 08_53_57 AM" src="https://github.com/user-attachments/assets/734b5521-8b4b-4e2d-beaf-cc76ad1e18a0" />
+
+
 > A real-data civic intelligence platform that transforms government rainfall telemetry into interactive rainfall insights.
 
 ## Introduction
